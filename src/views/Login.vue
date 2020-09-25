@@ -6,9 +6,9 @@
         <v-container fluid class="ma-0 pa-0 white elevation-1 mt-5">
           <v-row align="stretch" justify="center" class="ma-0 pa-0">
             <v-col md="5" lg="5" sm="6" class="pa-5"> 
-              <h4 class="google-font primary--text mb-5">Aura Admin</h4>
+              <h4 class="google-font primary--text mb-5">GDG Mugla Admin</h4>
               <br>
-              <p class="google-font mt-5 mb-0 primary--text" style="font-size:200%">Managing Aura App</p>
+              <p class="google-font mt-5 mb-0 primary--text" style="font-size:200%">Managing GDG Mugla App</p>
               <p class="google-font mb-5 mt-0">Welcome, Please login to your account.</p>
               <br>
               <v-text-field class="ma-0 pa-0" label="Email" v-model="email" outlined></v-text-field>
@@ -36,7 +36,7 @@
             <!-- <span style="border:1px solid #e0e0e0;border-radius:5px;font-size:80%;color:white;width:300px" class="pa-2 google-font primary">This Portal in Development Mode</span> -->
 
             <v-img :src="require('@/assets/img/home.svg')"></v-img>
-            <h2 class="google-font mb-3 white--text">Aura Admin</h2>
+            <h2 class="google-font mb-3 white--text">GDG Mugla Admin</h2>
             <br>
           </v-col>
         </v-row>
